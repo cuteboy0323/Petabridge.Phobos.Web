@@ -16,7 +16,7 @@
   </ItemGroup>
   <!-- Petabridge.Cmd Package Versions -->
   <ItemGroup>
-    <PackageVersion Include="Petabridge.Cmd.Cluster" Version="1.4.5" />
+    <PackageVersion Include="Petabridge.Cmd.Cluster" Version="1.5.2" />
     <PackageVersion Include="Petabridge.Cmd.Remote" Version="1.4.5" />
   </ItemGroup>
   <!-- OTel Package Versions -->
